@@ -1,0 +1,17 @@
+.grid{
+    display: flex;
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    flex-wrap: wrap;
+    border: 2px solid;
+}
+.square{
+    height: 133px;
+    width: 132px;
+    border: 1px solid;
+}
+.mole{
+    background-image: url(./mole-icon-21.jpeg);
+    background-size: cover;
+}
